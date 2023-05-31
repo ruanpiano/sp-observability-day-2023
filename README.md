@@ -9,3 +9,5 @@
 - Repositório do Datadog Agent: [https://github.com/DataDog/datadog-agent/](https://github.com/DataDog/datadog-agent/)
 
 - Webinar 6 de Junho: [https://www.datadoghq.com/pt/dg/webinars/top3-webinar-brazil/](https://www.datadoghq.com/pt/dg/webinars/top3-webinar-brazil/)
+
+- Solução Open-source para gerenciamento de pipelines de dados de observabilidade: [https://vector.dev/](https://vector.dev/)
